@@ -7,3 +7,22 @@ body{
 	height: 220px;
 	background-color: #10DAD9;
 }
+
+.banner-text {
+	margin: 0px;
+	width: 100%;
+	color: White;
+	text-align: center;
+	font-size: 160%;
+
+}
+
+#artemis-text {
+	padding-bottom: 10px;
+	font-size: 300%;
+}
+
+.TEMP {
+	font-size: 600%;
+	text-align: center;
+}
